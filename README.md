@@ -1,4 +1,4 @@
-[b]Winforms - Tools for a video game - Snake Level Editor[/b]
+Alt-H1 Winforms - Tools for a video game - Snake Level Editor
 
 I wanted to learn Winforms and tools for video games.
 
