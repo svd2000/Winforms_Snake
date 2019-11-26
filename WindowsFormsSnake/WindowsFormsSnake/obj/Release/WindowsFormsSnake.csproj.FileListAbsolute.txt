@@ -1,0 +1,10 @@
+C:\Users\meume\Documents\VideoGames\C#\WindowsFormsSnake\WindowsFormsSnake\bin\Release\WindowsFormsSnake.exe.config
+C:\Users\meume\Documents\VideoGames\C#\WindowsFormsSnake\WindowsFormsSnake\bin\Release\WindowsFormsSnake.exe
+C:\Users\meume\Documents\VideoGames\C#\WindowsFormsSnake\WindowsFormsSnake\bin\Release\WindowsFormsSnake.pdb
+C:\Users\meume\Documents\VideoGames\C#\WindowsFormsSnake\WindowsFormsSnake\obj\Release\WindowsFormsSnake.csprojAssemblyReference.cache
+C:\Users\meume\Documents\VideoGames\C#\WindowsFormsSnake\WindowsFormsSnake\obj\Release\WindowsFormsSnake.Form1.resources
+C:\Users\meume\Documents\VideoGames\C#\WindowsFormsSnake\WindowsFormsSnake\obj\Release\WindowsFormsSnake.Properties.Resources.resources
+C:\Users\meume\Documents\VideoGames\C#\WindowsFormsSnake\WindowsFormsSnake\obj\Release\WindowsFormsSnake.csproj.GenerateResource.cache
+C:\Users\meume\Documents\VideoGames\C#\WindowsFormsSnake\WindowsFormsSnake\obj\Release\WindowsFormsSnake.csproj.CoreCompileInputs.cache
+C:\Users\meume\Documents\VideoGames\C#\WindowsFormsSnake\WindowsFormsSnake\obj\Release\WindowsFormsSnake.exe
+C:\Users\meume\Documents\VideoGames\C#\WindowsFormsSnake\WindowsFormsSnake\obj\Release\WindowsFormsSnake.pdb
